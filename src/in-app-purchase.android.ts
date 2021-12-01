@@ -1,4 +1,4 @@
-import * as application from "tns-core-modules/application"
+import * as application from "@nativescript/core/application"
 import { InAppPurchaseManagerBase, InAppPurchaseTransactionState, InAppProduct } from "./in-app-purchase.common"
 import { InAppPurchaseStateUpdateListener, InAppPurchaseResultCode, InAppPurchaseType, InAppOrderResult, InAppOrderConfirmResult, InAppOrderHistoryResult, InAppListProductsResult } from "."
 
